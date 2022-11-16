@@ -1,2 +1,6 @@
 # Haidi_Xu
-Raw data files from the study "Fiber alignment, niches for gut bacteria on simple and complex fiber structures"
+This document contains raw data from the study "Fiber alignment, niches for gut bacteria on simple and complex fiber structures", organized in an excel spreadsheet with to tabs conatining:
+
+(1) Glycosidic linkage profile analysis
+(2) Pure bacterial growth experiments including single and mixed strains growth experiments
+
